@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Items",
+      "tensorShape": [
+        7532,
+        210
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/SebastianZiche/Bosch-Production-Line/master/projector_files/most_common_paths_feature_values.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/SebastianZiche/Bosch-Production-Line/master/projector_files/metadata-edited(1).tsv"
+    }
+  ]
+}
