@@ -3,17 +3,14 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Braverman"
   given-names: "Maria"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Ziche"
   given-names: "Sebastian"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Thim"
   given-names: "Christof"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Grum"
   given-names: "Marcus"
 title: "Bosch-Production-Line"
-version: 1.0.0
+version: 1.2
 doi: 10.5281/zenodo.6384769 
 date-released: 2022-03-25
 url: "https://github.com/SebastianZiche/Bosch-Production-Line"
